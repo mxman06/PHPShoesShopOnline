@@ -1,0 +1,8 @@
+$host="db2513.1and1.fr"; // Host name
+$username="dbo330340688"; // Mysql username
+$password="guigus06"; // Mysql password
+$db_name="db330340688"; // Database name
+$tbl_name="client"; // Table name
+
+
+
